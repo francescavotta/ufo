@@ -1,0 +1,2 @@
+SELECT codins
+FROM corso
